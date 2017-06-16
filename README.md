@@ -7,4 +7,4 @@ It requires the supercars-service API running locally on port 8888 - https://git
 Then just build the project with webpack/launch the dev server and access on http://localhost:8080/
 
 
-![alt text](http://imgur.com/PzvtkaN)
+![image](http://i.imgur.com/PzvtkaN.jpg)
